@@ -1,0 +1,5 @@
+{
+  "name": "Prompt to Picture Generator",
+  "description": "A web application that generates high-quality images from text prompts using the Gemini API. Simply enter a description of the image you want to create and watch it come to life.",
+  "requestFramePermissions": []
+}
